@@ -9,10 +9,3 @@
 - **JavaScript Editor**: Add functionality and interactivity with live JavaScript updates.
 - **Live Preview**: Instantly view the results of your code in a dynamic preview panel.
 
-## Getting Started
-
-To get started with Front End Playground, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   https://github.com/jyotraval/Frontend-Playground
