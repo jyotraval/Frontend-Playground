@@ -9,3 +9,5 @@
 - **JavaScript Editor**: Add functionality and interactivity with live JavaScript updates.
 - **Live Preview**: Instantly view the results of your code in a dynamic preview panel.
 
+[Try it](https://jyotraval.github.io/Frontend-Playground/)
+
